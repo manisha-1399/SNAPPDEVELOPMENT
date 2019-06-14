@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="incident_contact_type" table="x_366650_sinduit3_log_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>incident_contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>email</label>
+            <language>en</language>
+            <name>x_366650_sinduit3_log_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 06:29:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a861a94db4233007ce6f26b68961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 06:29:24</sys_updated_on>
+            <value>email</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>incident_contact_type</element>
+            <name>x_366650_sinduit3_log_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 06:29:24</sys_created_on>
+            <sys_id>8b969694db4233007ce6f26b68961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident_contact_type</sys_name>
+            <sys_package display_value="SINDUIT3" source="x_366650_sinduit3">efcb3d10db0233007ce6f26b689619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT3">efcb3d10db0233007ce6f26b689619f4</sys_scope>
+            <sys_update_name>sys_choice_x_366650_sinduit3_log_incident_incident_contact_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 06:29:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

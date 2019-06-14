@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sindu_short_description" label="SINDU Short Description" language="en" table="x_366650_sinduit3_log_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sindu_short_description</element>
+            <help/>
+            <hint/>
+            <label>SINDU Short Description</label>
+            <language>en</language>
+            <name>x_366650_sinduit3_log_incident</name>
+            <plural>SINDU Short Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 05:00:50</sys_created_on>
+            <sys_id>31520658db0233007ce6f26b68961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SINDU Short Description</sys_name>
+            <sys_package display_value="SINDUIT3" source="x_366650_sinduit3">efcb3d10db0233007ce6f26b689619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT3">efcb3d10db0233007ce6f26b689619f4</sys_scope>
+            <sys_update_name>sys_documentation_x_366650_sinduit3_log_incident_sindu_short_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 05:00:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Visitor">e1677b94db4633007ce6f26b689619b4</application>
+        <filter/>
+        <name>Visitors</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_366650_sinduit3.visitor_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 13:32:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21677b94db4633007ce6f26b689619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitors</sys_name>
+        <sys_package display_value="SINDUIT3" source="x_366650_sinduit3">efcb3d10db0233007ce6f26b689619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT3">efcb3d10db0233007ce6f26b689619f4</sys_scope>
+        <sys_update_name>sys_ui_module_21677b94db4633007ce6f26b689619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 13:32:16</sys_updated_on>
+        <table>x_366650_sinduit3_visitor</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

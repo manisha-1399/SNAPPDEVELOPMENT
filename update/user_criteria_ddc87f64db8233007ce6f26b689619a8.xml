@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group name="sriindutechnician">5b06e1c4dbca33007ce6f26b6896199d</group>
+        <location/>
+        <match_all>false</match_all>
+        <name>sriindu criteria</name>
+        <role name="itil_admin">28322f3cc611228500e20459e33eef34</role>
+        <script/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:19:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ddc87f64db8233007ce6f26b689619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sriindu criteria</sys_name>
+        <sys_package display_value="SINDUIT3" source="x_366650_sinduit3">efcb3d10db0233007ce6f26b689619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT3">efcb3d10db0233007ce6f26b689619f4</sys_scope>
+        <sys_update_name>user_criteria_ddc87f64db8233007ce6f26b689619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:19:36</sys_updated_on>
+        <user>08e4bcf053231300e321ddeeff7b12f8</user>
+    </user_criteria>
+</record_update>

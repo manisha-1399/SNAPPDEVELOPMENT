@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Log Incident" max_length="40" name="x_366650_sinduit3_log_incident" sizeclass="6" type="collection">
+        <element choice="1" label="contacttype2" max_length="40" name="contacttype2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="conttype" max_length="40" name="conttype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="fax" sequence="0" value="fax"/>
+                <element inactive_on_update="false" label="phno" sequence="1" value="phno"/>
+                <element inactive_on_update="false" label="sms" sequence="2" value="sms"/>
+            </choice>
+        </element>
+        <element label="history" max_length="4000" name="history" type="journal"/>
+        <element choice="1" label="Incident contact type" max_length="200" name="incident_contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+        <element label="request date" max_length="70" name="request_date" type="glide_date"/>
+        <element display="true" label="return date" max_length="80" name="return_date" type="glide_date"/>
+        <element default="default desc" label="SINDUDesc" max_length="100" name="sindudesc" type="string"/>
+        <element default="Test Default" label="SINDU Short Description" max_length="100" name="sindu_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="u_start_date" type="glide_date"/>
+    </element>
+</database>
