@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Log Incident" max_length="40" name="x_366650_sinduit3_log_incident" sizeclass="6" type="collection">
+    <element extends="task" label="Log Incident" max_length="40" name="x_366650_sinduit3_log_incident" type="collection">
+        <element choice="1" label="Category" max_length="70" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" sequence="0" value="hardware"/>
+                <element inactive="true" inactive_on_update="true" label="patwari" sequence="0" value="patwari"/>
+            </choice>
+        </element>
         <element choice="1" label="contacttype2" max_length="40" name="contacttype2" type="choice">
             <choice/>
         </element>
