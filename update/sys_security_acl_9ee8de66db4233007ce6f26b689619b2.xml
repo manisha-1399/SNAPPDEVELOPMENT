@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_366650_sinduit3_acl_table</description>
+        <name>x_366650_sinduit3_acl_table</name>
+        <operation display_value="delete">delete</operation>
+        <script><![CDATA[var currentuser=gs.getUser();
+answer=currentuser.isMemberOf('hardware');]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 06:25:46</sys_created_on>
+        <sys_id>9ee8de66db4233007ce6f26b689619b2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_366650_sinduit3_acl_table</sys_name>
+        <sys_package display_value="SINDUIT3" source="x_366650_sinduit3">efcb3d10db0233007ce6f26b689619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT3">efcb3d10db0233007ce6f26b689619f4</sys_scope>
+        <sys_update_name>sys_security_acl_9ee8de66db4233007ce6f26b689619b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 08:40:43</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
